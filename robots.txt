@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://lbhbase-web.github.io/kbo-squademaker/sitemap.xml
